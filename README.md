@@ -2,7 +2,7 @@
 
 Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 
-从 *果生态系统 迁移到 Windows 或者 Linux / Android /BSD
+从 *果生态系统 迁移到 Windows 或者 Linux / Android / BSD
 
 ## Tips
 
