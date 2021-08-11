@@ -31,6 +31,6 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 
 ### Ad-hoc Service
 
-- Google Nearby Android系统内置。介绍: 来自 [Google 的「隔空投送」](https://sspai.com/post/61450)
+- [Google Nearby](https://en.wikipedia.org/wiki/Nearby_Share) Android系统内置。介绍: 来自 [Google 的「隔空投送」](https://sspai.com/post/61450)
 
 
