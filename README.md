@@ -6,7 +6,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 
 ## Tips
 
-0. 安全和隐私须知：使用任何系统（包括被宣称更隐私和安全的）都无法带来真正的隐私和安全。只有一个办法是有用的：少用电子设备，保持更多离线时间，多读纸书
+0. 安全和隐私须知：使用任何系统（包括被宣称更隐私和安全的）都无法带来真正的隐私和安全。只有一个办法是有用的： **少用电子设备，保持更多离线时间，多读纸书**
 
 --------------------
 
@@ -20,6 +20,11 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 * [Airdrop|自组网服务](#Ad-hoc-Service) 
 * [Safari|浏览器](#Browser) 
 
+## Computer
+
+### All In One
+
+## Mobile
 
 ## Software
 
