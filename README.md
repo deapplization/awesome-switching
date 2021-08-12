@@ -78,6 +78,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 
 - [iCloud相册] 如果你有使用iCloud来备份照片，并且开启了“优化iPhone存储”的选项，那就必须要先去【设置】-【账户】-【iCloud】-【照片】中选择【下载并保留原件】，保证手机空间大于iCloud的照片空间，将所有的图片原件下载到手机本地。完成操作之后拷贝到计算机或者NAS上即可。 
 - [photoprism](https://photoprism.app/features) 自建私有云照片服务，带有基本AI照片识别模型。可以通过docker部署于Linux/群晖/树莓派。FreeBSD/FreeNAS用户可以使用[非官方Port](https://github.com/huo-ju/photoprism-freebsd-port) ([Demo](https://demo.photoprism.org)) ([Source Code](https://github.com/photoprism/photoprism)) 
+- [photosync](https://www.photosync-app.com/) (Android) 基于 ssid 或者 schedule 自动备份手机照片到电脑，NAS或者第三方云服务。Android 版可以用 $3.99 买断。
 
 ## Other related repos
 - [awesome-privacy](https://github.com/pluja/awesome-privacy)
