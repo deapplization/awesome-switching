@@ -57,7 +57,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 
 - [Bitwarden](https://bitwarden.com/) 开源的密码管理器，支持网页，浏览器扩展，手机。可以使用官方服务或自建服务。 ([Source Code](https://github.com/bitwarden/server)) `AGPL-3.0`
 - [keepass](https://keepass.info/) 开源的密码管理器，可单机离线使用，也有各种第三方工具支持各平台，定制性很强，但略微复杂。[awesome-keepass](https://github.com/lgg/awesome-keepass)
-- [Enpass](https://www.enpass.io/) 全平台，甚至有WIN10 UWP版本，收费，买断制。官方宣称不存储任何数据。
+- [Enpass](https://www.enpass.io/) 全平台，甚至有WIN10 UWP版本，桌面版免费，移动端买断制收费。支持通过 Drobox，Google Drive 等服务同步，官方宣称不存储任何数据。
 
 ### Ad-hoc Service
 
