@@ -21,6 +21,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 * [Safari|浏览器](#Browser) 
 * [iCloud|相册](#Photo)
 * [Touchpad|触摸板](#touchpad)
+
 ## Computer
 
 ### All In One
@@ -60,6 +61,10 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 ### Ad-hoc Service
 
 - [Google Nearby](https://en.wikipedia.org/wiki/Nearby_Share) Android系统内置。介绍: 来自 [Google 的「隔空投送」](https://sspai.com/post/61450)
+- [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) wormhole是点对点安全文件/消息直传工具，在有网络的情况下可以代替airdrop。
+  - [wormhole-william](https://github.com/psanford/wormhole-william) wormhole的go语言实现，安装使用更简单，此处是命令行版本，和官方python版本兼容。
+  - [wormhole-gui](https://github.com/Jacalz/wormhole-gui) wormhole图形界面版，可在Windows/Linux/Mac使用。
+  - [mobile-wormhole](https://play.google.com/store/apps/details?id=com.pavelsof.wormhole) wormhole Android版本，和以上各版本兼容。[Fdroid安装](https://f-droid.org/packages/com.pavelsof.wormhole/) ([Source Code](https://github.com/pavelsof/mobile-wormhole)) 
 
 ### Browser
 
