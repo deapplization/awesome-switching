@@ -16,10 +16,10 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 
 ## Alternative To...
 
-* [Keychain|密码管理](#Password-Managers) 
-* [Airdrop|自组网服务](#Ad-hoc-Service) 
-* [Safari|浏览器](#Browser) 
-* [iCloud Photos|相册](#Photo)
+* [Keychain|密码管理](#password-managers) 
+* [Airdrop|自组网服务](#ad-hoc-service) 
+* [Safari|浏览器](#browser) 
+* [iCloud Photos|相册](#photo)
 * [Touchpad|触摸板](#touchpad)
 
 ## Computer
