@@ -19,7 +19,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 * [Keychain|密码管理](#Password-Managers) 
 * [Airdrop|自组网服务](#Ad-hoc-Service) 
 * [Safari|浏览器](#Browser) 
-* [iCloud|相册](#Photo)
+* [iCloud Photos|相册](#Photo)
 * [Touchpad|触摸板](#touchpad)
 
 ## Computer
@@ -74,8 +74,10 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) Firefox 是开源社区更为喜爱的浏览器，有更激进的安全策略。全平台。
 - [firefox focus for android](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US&gl=US) Firefox为移动平台推出的轻量级，注重隐私浏览器。特点是每次退出会清空历史记录和cookies，本地不留痕迹。
 
-### Photo
+### Photos
+
 - [iCloud相册] 如果你有使用iCloud来备份照片，并且开启了“优化iPhone存储”的选项，那就必须要先去【设置】-【账户】-【iCloud】-【照片】中选择【下载并保留原件】，保证手机空间大于iCloud的照片空间，将所有的图片原件下载到手机本地。完成操作之后拷贝到计算机或者NAS上即可。 
+- [photoprism](https://github.com/photoprism/photoprism) 自建私有云照片服务，带有基本AI照片识别模型。可以通过docker部署于Linux/群晖/树莓派。FreeBSD/FreeNAS用户可以使用[非官方Port](https://github.com/huo-ju/photoprism-freebsd-port)
 
 ## Other related repos
 - [awesome-privacy](https://github.com/pluja/awesome-privacy)
