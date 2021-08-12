@@ -19,7 +19,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 * [Keychain|密码管理](#password-managers) 
 * [Airdrop|自组网服务](#ad-hoc-service) 
 * [Safari|浏览器](#browser) 
-* [iCloud Photos|相册](#photo)
+* [iCloud Photos|相册](#photos)
 * [Touchpad|触摸板](#touchpad)
 
 ## Computer
