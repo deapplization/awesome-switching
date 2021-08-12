@@ -31,6 +31,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 - 触摸板主要是 Synaptics 和 Elan 两家的产品，可以通过安装对应的精确式触控提升体验
   - [觉得 Windows 笔记本的触控板不好用？你可以试试装个新驱动](https://zhuanlan.zhihu.com/p/38249316)
   - [Windows 10触控板竟然如此好用](https://www.bilibili.com/read/cv5845861)
+  - [Linux Touchegg](https://wiki.archlinux.org/title/touchegg) Linux多点触摸手势支持，但不支持Wayland ([Source Code](https://github.com/JoseExposito/touchegg)) 
   - [Linux Touchpad Synaptics](https://wiki.archlinux.org/title/Touchpad_Synaptics)
   - [Linux Libinput](https://wiki.archlinux.org/title/Libinput)
 
