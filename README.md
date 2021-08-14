@@ -80,7 +80,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 
 ### Browser
 
-- [Chrome](https://www.google.com/chrome)  Google Chrome 开源，是目前最流行的浏览器内核。有桌面和手机版，全平台。
+- [Chrome](https://www.google.com/chrome)  Google Chrome 是基于目前最流行的内核Chromium开发的浏览器产品。有桌面和手机版，全平台。
 - [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) 基于 Chromuim 内核的安卓浏览器，比起 Chrome 增加了安装扩展的功能。
 - [Edge](https://microsoftedgewelcome.microsoft.com) Edge 是微软在 Chromium 基础上开发的浏览器。支持DRM，可以看各种流媒体服务的高清版本。全平台。
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) Firefox 是开源社区更为喜爱的浏览器，有更激进的安全策略。全平台。
