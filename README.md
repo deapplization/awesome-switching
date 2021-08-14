@@ -22,7 +22,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 * [iCloud Photos|相册](#photos)
 * [Touchpad|触摸板](#touchpad)
 
-## 防踩坑注意事项
+## Caution
 
  * [Windows防踩坑注意事项](windows-notes.md)
  * [Android防踩坑注意事项](android-notes.md)
