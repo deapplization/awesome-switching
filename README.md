@@ -85,7 +85,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 - [Edge](https://microsoftedgewelcome.microsoft.com) Edge 是微软在 Chromium 基础上开发的浏览器。支持DRM，可以看各种流媒体服务的高清版本。全平台。
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) Firefox 是开源社区更为喜爱的浏览器，有更激进的安全策略。全平台。
 - [Firefox Focus for Android](https://play.google.com/store/apps/details?id=org.mozilla.focus) Firefox 为移动平台推出的轻量级，注重隐私浏览器。特点是每次退出会清空历史记录和cookies，本地不留痕迹。
-- [firefox Nightly for Android](https://play.google.com/store/apps/details?id=org.mozilla.fenix) Firefox 为移动平台的测试版。比起普通版本多加了安装插件功能，可以按需安装插件。
+- [Firefox Nightly for Android](https://play.google.com/store/apps/details?id=org.mozilla.fenix) Firefox 为移动平台的测试版。比起普通版本多加了安装插件功能，可以按需安装插件。
 
 ### Photos
 
