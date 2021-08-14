@@ -22,12 +22,18 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 * [iCloud Photos|相册](#photos)
 * [Touchpad|触摸板](#touchpad)
 
+## 防踩坑注意事项
+
+ * [Windows防踩坑注意事项](windows-notes.md)
+ * [Android防踩坑注意事项](android-notes.md)
+
 ## Computer
 
 ### All In One
 
-### Computer Peripheral
+## Computer Peripheral
 
+### Touchpad
 - 触摸板主要是 Synaptics 和 Elan 两家的产品，可以通过安装对应的精确式触控提升体验
   - [觉得 Windows 笔记本的触控板不好用？你可以试试装个新驱动](https://zhuanlan.zhihu.com/p/38249316)
   - [Windows 10触控板竟然如此好用](https://www.bilibili.com/read/cv5845861)
