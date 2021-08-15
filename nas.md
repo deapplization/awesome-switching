@@ -10,7 +10,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 
 部署这些服务，可以使用成熟而商品化程度高的NAS，也可以用一台闲置PC安装Linux/BSD作为私有云，或者更复杂一些变成Homelab玩家。
 
-在开始这些之前，请先默念以下语录10遍 ;)
+在开始这些之前，请先默念以下口诀10遍 ;)
 
 **“备份不做，十恶不赦”**
 
