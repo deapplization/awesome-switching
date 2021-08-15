@@ -21,6 +21,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 * [Safari|浏览器](#browser)
 * [iCloud Photos|相册](#photos)
 * [Touchpad|触摸板](#touchpad)
+* [iCloud|云服务](#nas.md)
 
 ## Professional Users
  
