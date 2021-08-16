@@ -1,4 +1,4 @@
-# awsome-switching
+# awesome-switching
 
 Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 
@@ -21,13 +21,24 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 * [Safari|浏览器](#browser)
 * [iCloud Photos|相册](#photos)
 * [Touchpad|触摸板](#touchpad)
+* [iCloud|云服务](nas.md)
+
+## Professional Users
+ 
+ - 专业用户装机指南[pugetsystems](https://www.pugetsystems.com/all_articles.php) 是美国专业装机商，客户遍布各专业领域。他们提供了按照不同专业软件分类的配置指南和评测。包括图形图像/视频/建筑/工业/科学/游戏/直播等各领域
+
+## Caution
+
+ * [Windows防踩坑注意事项](windows-notes.md)
+ * [Android防踩坑注意事项](android-notes.md)
 
 ## Computer
 
 ### All In One
 
-### Computer Peripheral
+## Computer Peripheral
 
+### Touchpad
 - 触摸板主要是 Synaptics 和 Elan 两家的产品，可以通过安装对应的精确式触控提升体验
   - [觉得 Windows 笔记本的触控板不好用？你可以试试装个新驱动](https://zhuanlan.zhihu.com/p/38249316)
   - [Windows 10触控板竟然如此好用](https://www.bilibili.com/read/cv5845861)
@@ -70,14 +81,17 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 
 ### Browser
 
-- [Chrome](https://www.google.com/chrome)  Google Chrome 开源，是目前最流行的浏览器内核。有桌面和手机版，全平台。
-- [Edge](https://microsoftedgewelcome.microsoft.com) Edge 是微软在 chromium 基础上开发的浏览器。支持DRM，可以看各种流媒体服务的高清版本。全平台。
+- [Chrome](https://www.google.com/chrome)  Google Chrome 是基于目前最流行的内核Chromium开发的浏览器产品。有桌面和手机版，全平台。
+- [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser) 基于 Chromuim 内核的安卓浏览器，比起 Chrome 增加了安装扩展的功能。
+- [Edge](https://microsoftedgewelcome.microsoft.com) Edge 是微软在 Chromium 基础上开发的浏览器。支持DRM，可以看各种流媒体服务的高清版本。全平台。
 - [Firefox](https://www.mozilla.org/en-US/firefox/new/) Firefox 是开源社区更为喜爱的浏览器，有更激进的安全策略。全平台。
-- [firefox focus for android](https://play.google.com/store/apps/details?id=org.mozilla.focus&hl=en_US&gl=US) Firefox为移动平台推出的轻量级，注重隐私浏览器。特点是每次退出会清空历史记录和cookies，本地不留痕迹。
+- [Firefox Focus for Android](https://play.google.com/store/apps/details?id=org.mozilla.focus) Firefox 为移动平台推出的轻量级，注重隐私浏览器。特点是每次退出会清空历史记录和cookies，本地不留痕迹。
+- [Firefox Nightly for Android](https://play.google.com/store/apps/details?id=org.mozilla.fenix) Firefox 为移动平台的测试版。比起普通版本多加了安装插件功能，可以按需安装插件。
 
 ### Photos
 
 - [iCloud相册] 如果你有使用iCloud来备份照片，并且开启了“优化iPhone存储”的选项，那就必须要先去【设置】-【账户】-【iCloud】-【照片】中选择【下载并保留原件】，保证手机空间大于iCloud的照片空间，将所有的图片原件下载到手机本地。完成操作之后拷贝到计算机或者NAS上即可。
+- [icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) 从 iCloud 相册迁移出海量照片，可以直接在 NAS 里跑，下载完成即完成迁移。
 - [photoprism](https://photoprism.app/features) 自建私有云照片服务，带有基本AI照片识别模型。可以通过docker部署于Linux/群晖/树莓派。FreeBSD/FreeNAS用户可以使用[非官方Port](https://github.com/huo-ju/photoprism-freebsd-port) ([Demo](https://demo.photoprism.org)) ([Source Code](https://github.com/photoprism/photoprism))
 - [photosync](https://www.photosync-app.com/) (Android) 基于 ssid 或者 schedule 自动备份手机照片到电脑，NAS或者第三方云服务。Android 版可以用 $3.99 买断。
 
