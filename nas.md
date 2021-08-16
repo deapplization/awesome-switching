@@ -22,6 +22,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 
 ### 软件和服务
 - [Nextcloud](https://nextcloud.com/) - 全功能私有云，文件存储和共享，日历，联系人，邮件等。 ([Demo](https://demo.nextcloud.com/), [Source Code](https://github.com/nextcloud/server)) `AGPL-3.0` `PHP`
+- [TrueNAS Core](https://www.truenas.com) - 原名 FreeNAS，存储服务器操作系统，基于 FreeBSD 和 OpenZFS。适合想自己搭键 NAS，但是又懒得折腾 ZFS/RAID 的人。([Source Code](https://github.com/truenas/)) `BSD-2`
 
 ## Other resources
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
