@@ -24,8 +24,8 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 ### 软件和服务
 - [Nextcloud](https://nextcloud.com/) - 全功能私有云，文件存储和共享，日历，联系人，邮件等。 ([Demo](https://demo.nextcloud.com/), [Source Code](https://github.com/nextcloud/server)) `AGPL-3.0` `PHP`
 - [TrueNAS Core](https://www.truenas.com) - 原名 FreeNAS，存储服务器操作系统，基于 FreeBSD 和 OpenZFS。适合想自己搭键 NAS，但是又懒得折腾 ZFS/RAID 的人。([Source Code](https://github.com/truenas/)) `BSD-2` 
-- [TrueNAS SCALE] 同样为TrueNas出品，但系统已经切换为基于Debian的Linux。2021年初刚刚推出，优势是具有ZFS的同时，硬件驱动也支持的较好。
-- [XigmaNas](https://xigmanas.com/) - 早年从FreeNAS分支出来的版本，2018年以前叫做Nas4Free现已改名为XigmaNas。界面比较老旧遵循以前FreeNAS的结构，同样支持ZFS。系统虽然比较老，但硬件需求比较低，由于ZFSPool的影响TrueNAS需要8G内存，但XigmaNas4G内存就可以顺利运行了。([Source Code])(https://sourceforge.net/p/xigmanas/code/HEAD/tree/)`	BSD license`
+- [TrueNAS SCALE](https://www.truenas.com/truenas-scale/) 同样为TrueNas出品，但系统已经切换为基于Debian的Linux。2021年初刚刚推出，优势是具有ZFS的同时，硬件驱动也支持的较好。
+- [XigmaNas](https://xigmanas.com/) - 早年从FreeNAS分支出来的版本，2018年以前叫做Nas4Free现已改名为XigmaNas。界面比较老旧遵循以前FreeNAS的结构，同样支持ZFS。系统虽然比较老，但硬件需求比较低，由于ZFSPool的影响TrueNAS需要8G内存，但XigmaNas4G内存就可以顺利运行了。([Source Code](https://sourceforge.net/p/xigmanas/code/HEAD/tree/))`	BSD license`
 
 ## Other resources
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
