@@ -26,7 +26,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 ## Professional Users
  
  - 专业用户装机指南[pugetsystems](https://www.pugetsystems.com/all_articles.php) 是美国专业装机商，客户遍布各专业领域。他们提供了按照不同专业软件分类的配置指南和评测。包括图形图像/视频/建筑/工业/科学/游戏/直播等各领域
- - [在 Windows 上用 WSL 优雅开发]https://github.com/spencerwooo/dowww
+ - [在 Windows 上用 WSL 优雅开发](https://github.com/spencerwooo/dowww)
 
 ## Caution
 
