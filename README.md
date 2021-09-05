@@ -75,6 +75,7 @@ Switching from the *pple ecosystem to Windows / Linux / Android or BSD
 ### Ad-hoc Service
 
 - [Google Nearby](https://en.wikipedia.org/wiki/Nearby_Share) Android系统内置。介绍: 来自 [Google 的「隔空投送」](https://sspai.com/post/61450)
+- [snapdrop](https://snapdrop.net) 网页上的模拟airdrop应用。推荐自建服务使用，可以给作者省一些流量费用。  ([Source Code](https://github.com/RobinLinus/snapdrop))
 - [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) wormhole是点对点安全文件/消息直传工具，在有网络的情况下可以代替airdrop。
   - [wormhole-william](https://github.com/psanford/wormhole-william) wormhole的go语言实现，安装使用更简单，此处是命令行版本，和官方python版本兼容。
   - [wormhole-gui](https://github.com/Jacalz/wormhole-gui) wormhole图形界面版，可在Windows/Linux/Mac使用。
